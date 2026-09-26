@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-26T21:05:41.984Z",
+  "lastRunAt": "2026-09-26T21:36:19.970Z",
   "triggerSource": "CRON_30M",
   "granularitySeconds": 1800,
   "aiProvider": "openrouter",
@@ -9,8 +9,8 @@
     {
       "symbol": "1HZ250V",
       "success": true,
-      "verdict": "WAIT / NEUTRAL",
-      "confidence": 50,
+      "verdict": "STRONG BUY",
+      "confidence": 74,
       "engine": "QUANTITATIVE_FALLBACK",
       "dataSource": "DERIV_WS_PUBLIC",
       "granularitySeconds": 1800,
@@ -19,8 +19,8 @@
     {
       "symbol": "1HZ150V",
       "success": true,
-      "verdict": "WAIT / NEUTRAL",
-      "confidence": 50,
+      "verdict": "STRONG BUY",
+      "confidence": 71,
       "engine": "QUANTITATIVE_FALLBACK",
       "dataSource": "DERIV_WS_PUBLIC",
       "granularitySeconds": 1800,
@@ -29,8 +29,8 @@
     {
       "symbol": "JUMP100",
       "success": true,
-      "verdict": "STRONG BUY",
-      "confidence": 80,
+      "verdict": "WAIT / NEUTRAL",
+      "confidence": 42,
       "engine": "QUANTITATIVE_FALLBACK",
       "dataSource": "FALLBACK_CALIBRATED",
       "granularitySeconds": 1800,
