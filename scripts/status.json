@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-27T05:37:07.472Z",
+  "lastRunAt": "2026-09-27T06:07:08.052Z",
   "triggerSource": "CRON_30M",
   "granularitySeconds": 1800,
   "aiProvider": "openrouter",
@@ -20,7 +20,7 @@
       "symbol": "1HZ150V",
       "success": true,
       "verdict": "STRONG SELL",
-      "confidence": 81,
+      "confidence": 79,
       "engine": "QUANTITATIVE_FALLBACK",
       "dataSource": "DERIV_WS_PUBLIC",
       "granularitySeconds": 1800,
@@ -39,8 +39,8 @@
     {
       "symbol": "JUMP10",
       "success": true,
-      "verdict": "STRONG BUY",
-      "confidence": 76,
+      "verdict": "WAIT / NEUTRAL",
+      "confidence": 42,
       "engine": "QUANTITATIVE_FALLBACK",
       "dataSource": "FALLBACK_CALIBRATED",
       "granularitySeconds": 1800,
